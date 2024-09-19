@@ -1,6 +1,10 @@
 package Exercise_1_5;
 
-// Write a program that finds the largest among three numbers given from the cli, using if-else.
+/* Write a program that finds the largest among three numbers given from the cli, using if-else.
+
+    Example:
+        run: java LargestAmongstThreeNums.java 1 2 3
+*/
 
 public class LargestAmongstThreeNums {
     public static void main(String[] args) {
