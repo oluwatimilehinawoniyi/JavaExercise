@@ -57,5 +57,6 @@ public class Bank {
         bank1.checkBalance();
         bank2.deposit(10000934);
         bank2.withdraw(449765439);
+        bank1.withdraw(765432);
     }
 }
